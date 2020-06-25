@@ -1,0 +1,23 @@
+/* table,
+th,
+td {
+  text-align: center;
+  border: 1px solid black;
+  width: 100%;
+} */
+table {
+  width: 100%;
+  border: 1px solid black;
+}
+
+td {
+  border: 1px solid black;
+}
+h3 {
+  text-align: center;
+}
+main {
+  width: 100%;
+  text-align: center;
+  margin-top: 5%;
+}
